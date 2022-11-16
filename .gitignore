@@ -1,3 +1,3 @@
 node_modules
 
-app/config/connection/prisma/.env
+app/config/prisma/.env

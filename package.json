@@ -8,7 +8,7 @@
     "start": "nodemon server.js"
   },
   "prisma": {
-    "schema": "app/config/connection/prisma/schema.prisma"
+    "schema": "app/config/prisma/schema.prisma"
   },
   "keywords": [
     "morningstar03",

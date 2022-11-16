@@ -28,6 +28,6 @@ model Stores {
   device_access String[]
   createdBy     String
   createdAt     DateTime @default(now())
-  updatedBy     DateTime @default(now())
+  updatedBy     String
   updatedAt     DateTime @default(now()) @updatedAt
 }
